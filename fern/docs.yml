@@ -1,10 +1,5 @@
 instances:
   - url: patsstore.docs.buildwithfern.com
-    edit-this-page:
-      github:
-        owner: fern-api
-        repo: docs-starter
-        branch: main
 
 title: Plant Store
 
