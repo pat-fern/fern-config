@@ -1,6 +1,5 @@
 instances:
-  - url: plantstore.docs.buildwithfern.com
-    custom-domain: plantstore.dev
+  - url: patsstore.docs.buildwithfern.com
     edit-this-page:
       github:
         owner: fern-api
